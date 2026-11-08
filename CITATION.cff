@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+title: "Housing ABM: demonstration snapshot"
+message: "If you use this software, please cite it using the metadata from this file, together with the upstream papers listed under references."
+type: software
+version: 0.1.0-demo
+date-released: 2026-11-08
+license: MIT
+authors:
+  - family-names: Kothe
+    given-names: Rafael
+    orcid: "https://orcid.org/0009-0005-0323-8019"
+    email: rafael.kothe.econ@gmail.com
+references:
+  - type: report
+    authors:
+      - family-names: Baptista
+        given-names: Rafa
+      - family-names: Farmer
+        given-names: J. Doyne
+      - family-names: Hinterschweiger
+        given-names: Marc
+      - family-names: Low
+        given-names: Katie
+      - family-names: Tang
+        given-names: Daniel
+      - family-names: Uluc
+        given-names: Arzu
+    year: 2016
+    title: "Macroprudential policy in an agent-based model of the UK housing market"
+    institution:
+      name: Bank of England
+    number: "619"
+    collection-title: "Staff Working Paper"
+    url: "https://www.bankofengland.co.uk/working-paper/2016/macroprudential-policy-in-an-agent-based-model-of-the-uk-housing-market"
+  - type: report
+    authors:
+      - family-names: Carro
+        given-names: Adrian
+    year: 2022
+    title: "Could Spain be less different? Exploring the effects of macroprudential policy on the house price cycle"
+    institution:
+      name: Banco de España
+    number: "2230"
+    collection-title: "Working Paper"
+  - type: article
+    authors:
+      - family-names: Carro
+        given-names: Adrian
+      - family-names: Hinterschweiger
+        given-names: Marc
+      - family-names: Uluc
+        given-names: Arzu
+      - family-names: Farmer
+        given-names: J. Doyne
+    year: 2023
+    title: "Heterogeneous effects and spillovers of macroprudential policy in an agent-based model of the UK housing market"
+    journal: "Industrial and Corporate Change"
+    volume: 32
+    issue: 2
+    start: 386
+    end: 432
+    doi: "10.1093/icc/dtac030"
